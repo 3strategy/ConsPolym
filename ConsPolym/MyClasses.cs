@@ -1,4 +1,6 @@
-﻿
+﻿// https://xn--5dbqnj.xn--eebf2b.com/oop/02-polymorphism-cs.pptx
+// https://מבני.שלי.com/oop/02-polymorphism-cs.pptx
+
 namespace ConsPolym;
 
 
